@@ -1,5 +1,5 @@
 # Projects
-In this repository, I will be sharing my projects here:
+Here is the list of my projects:
 
 ### Efficient Code Parts
 - Initiator.ipynb
