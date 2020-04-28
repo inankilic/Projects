@@ -10,7 +10,7 @@ Here is the list of my projects:
 
 ### Exploratory Analysis Projects
 - TV, Halftime Shows, and the Big Game
-- xx Exploratory Project 2
+- The Android App Market on Google Play
 
 ### Modelling Projects
 - xx Modelling Project 1
