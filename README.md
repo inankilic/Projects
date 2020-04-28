@@ -2,16 +2,16 @@
 Here is the list of my projects:
 
 ### Efficient Code Parts
-- Initiator.ipynb
-- Visualizer.ipynb
-- Frequently_Used_Code_Parts.ipynb
-- Exploratory_Analysis_Booster.ipynb
-- Modelling_Booster.ipynb
+- 1. Initiator
+- 2. Visualizer
+- 3. Frequently_Used_Code_Parts
+- 4. Exploratory_Analysis_Booster
+- 5. Modelling_Booster
 
 ### Exploratory Analysis Projects
-- Exploratory_Project_1.ipynb
-- Exploratory_Project_2.ipynb
+- 1. TV, Halftime Shows, and the Big Game
+- 2. Exploratory Project 2
 
 ### Modelling Projects
-- Modelling_Project_1.ipynb
-- Modelling_Project_2.ipynb
+- 1. Modelling Project 1
+- 2. Modelling Project 2
