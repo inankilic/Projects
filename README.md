@@ -9,8 +9,9 @@ Here is the list of my projects:
 - xx Modelling Booster
 
 ### Exploratory Analysis Projects
-- TV, Halftime Shows, and the Big Game
-- The Android App Market on Google Play
+- TV, Halftime Shows, and the Big Game (Datacamp)
+- The Android App Market on Google Play (Datacamp)
+- The GitHub History of the Scala Language (Datacamp)
 
 ### Modelling Projects
 - xx Modelling Project 1
