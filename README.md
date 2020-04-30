@@ -12,8 +12,8 @@ Here is the list of my projects:
 - TV, Halftime Shows, and the Big Game (Datacamp)
 - The Android App Market on Google Play (Datacamp)
 - The GitHub History of the Scala Language (Datacamp)
-- A Visual History of Nobel Prize Winners
-- Dr. Semmelweis and the Discovery of Handwashing
+- A Visual History of Nobel Prize Winners (Datacamp)
+- Dr. Semmelweis and the Discovery of Handwashing (Datacamp)
 
 ### Modelling Projects
 - xx Modelling Project 1
