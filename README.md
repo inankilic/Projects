@@ -16,5 +16,4 @@ Here is the list of my projects:
 - Dr. Semmelweis and the Discovery of Handwashing (Datacamp)
 
 ### Modelling Projects
-- xx Modelling Project 1
-- xx Modelling Project 2
+- Predicting Credit Card Approvals (Datacamp)
