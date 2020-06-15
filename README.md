@@ -17,3 +17,4 @@ Here is the list of my projects:
 
 ### Modelling Projects
 - Predicting Credit Card Approvals (Datacamp)
+- M5 Forecasting Accuracy (Kaggle Competition)
