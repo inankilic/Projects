@@ -4,7 +4,7 @@ Here is the list of my projects:
 ### Efficient Code Parts
 - xx Initiator
 - xx Visualizer
-- xx Frequently Used Code Parts
+- xx Data Reading and Writing
 - xx Exploratory Analysis Booster
 - xx Modelling Booster
 
