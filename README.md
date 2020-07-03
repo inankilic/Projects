@@ -2,11 +2,9 @@
 Here is the list of my projects:
 
 ### Efficient Code Parts
-- xx Initiator
-- xx Visualizer
-- xx Data Reading and Writing
-- xx Exploratory Analysis Booster
-- xx Modelling Booster
+- Initiator
+- Data Reader and Writer
+- Useful Functions
 
 ### Exploratory Analysis Projects
 - TV, Halftime Shows, and the Big Game (Datacamp)
