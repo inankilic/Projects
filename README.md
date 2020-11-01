@@ -12,6 +12,7 @@ Here is the list of my projects:
 - The GitHub History of the Scala Language (Datacamp)
 - A Visual History of Nobel Prize Winners (Datacamp)
 - Dr. Semmelweis and the Discovery of Handwashing (Datacamp)
+- Basic Stock Price Analysis
 
 ### Modelling Projects
 - Predicting Credit Card Approvals (Datacamp)
